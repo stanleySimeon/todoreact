@@ -3,6 +3,8 @@
 # todo-react
 This is a Todo app build with React JS allow users to add, check and remove some tasks...
 
+![](./src/assets/demo.png)
+
 ## Built With
 
 - Major languages
